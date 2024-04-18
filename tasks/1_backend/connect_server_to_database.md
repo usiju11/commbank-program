@@ -13,7 +13,7 @@
 
 {
   "ConnectionStrings": {
-    "CommBank": "{CONNECTION_STRING}"
+    "CommBank": "{mongodb+srv://usiju111:<password>@admin.kglywcr.mongodb.net/}"
   }
 }
 ```
